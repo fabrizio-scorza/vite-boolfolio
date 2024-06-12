@@ -14,11 +14,11 @@ export default {
 <template>
 
   <main>
-    <section class="h-100">
-      <div class="container py-5 h-100">
-        <div class="row aling-items-center flex-column justify-content-center h-100">
+    <section>
+      <div class="container py-5">
+        <div class="row aling-items-center flex-column justify-content-center">
           <div class="col-auto text-center">
-            <h1>Hello Vue <font-awesome-icon :icon="['fab', 'vuejs']" /></h1>
+            <h1></h1>
           </div>
         </div>
       </div>
