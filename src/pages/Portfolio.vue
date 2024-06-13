@@ -30,7 +30,7 @@ export default {
     <main class="bg-secondary">
         <section>
             <div class="container py-5">
-                <h2 class="text-black">My <span class="text-warning">Bool</span>folio: Projects </h2>
+                <h2 class="text-black pb-4">My <span class="text-warning">Bool</span>folio: Projects </h2>
                 <ul class="list-unstyled row row-cols-3 row-gap-5">
                     <ProjectCard v-for="project in projects" :key="project.id" :project="project" />
                 </ul>

@@ -13,7 +13,7 @@ export default {
     <main class="bg-secondary">
         <section>
             <div class="container py-5 text-black">
-                <h2>My <span class="text-warning">Bool</span>folio: Homepage</h2>
+                <h2 class="pb-4">My <span class="text-warning">Bool</span>folio: Homepage</h2>
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vitae fuga suscipit voluptatibus at ab?
                     Maiores perspiciatis ex soluta distinctio eius earum ipsam repellat iure aspernatur tempora, natus
                     excepturi dolores fugiat atque pariatur libero expedita corrupti dolorum consectetur magni! Maiores
