@@ -23,6 +23,9 @@ export default {
             <RouterLink to="/portfolio" class="link-success">Portfolio</RouterLink>
           </li>
           <li>
+            <RouterLink to="/contact" class="link-success">Contact</RouterLink>
+          </li>
+          <li>
             <RouterLink to="/about" class="link-success">About</RouterLink>
           </li>
         </ul>

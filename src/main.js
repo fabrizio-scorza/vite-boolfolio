@@ -19,6 +19,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 import Home from './pages/Home.vue';
 import About from './pages/About.vue';
 import Portfolio from './pages/Portfolio.vue';
+import Contact from './pages/Contact.vue';
 
 /* add icons to the library */
 library.add(fas, far, fab);
@@ -33,6 +34,7 @@ const router = createRouter({
         { path: '/', component: Home },
         { path: '/about', component: About },
         { path: '/portfolio', component: Portfolio },
+        { path: '/contact', component: Contact }
     ]
 });
 
